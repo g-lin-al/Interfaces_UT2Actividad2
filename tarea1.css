@@ -1,0 +1,30 @@
+#contenedor {
+    background-color: lightgrey;
+    padding: 20px;
+    display: flex;
+}
+
+.caja {
+    width: 250px;
+    height: 150px;
+    margin: 0px 50px;
+    background-color: blue;
+    color: white;
+    border: 3px red dotted;
+}
+
+#div_html {
+    overflow: visible;
+}
+
+#div_css {
+    overflow: hidden;
+}
+
+#div_js {
+    overflow: scroll;
+}
+
+#div_backend {
+    overflow: auto;
+}
