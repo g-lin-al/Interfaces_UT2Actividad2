@@ -55,6 +55,9 @@ img {
     overflow: auto;
     width: 250px;
     height: 100px;
+    background-color: white;
+    color: black;
+    border: 3px black solid;
 }
 
 #info_adicional {
@@ -65,4 +68,6 @@ img {
     border-top: 3px blue solid;
     border-bottom: 5px green double;
     border-radius: 25px 0px 25px 0px;
+    margin: 20px;
+    padding: 0px 20px;
 }
