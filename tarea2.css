@@ -2,6 +2,10 @@ body {
     background-color: lightcoral;
 }
 
+main {
+    width: 80%;
+}
+
 header {
     width: 90%;
     margin-top: 1%;
